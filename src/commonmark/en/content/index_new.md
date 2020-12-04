@@ -1,3 +1,7 @@
+---
+template: overrides/main.html
+---
+
 # DHIS2 Documentation
 
 The documentation is organised into the following categories:  (**NO IT IS NOT!**)
