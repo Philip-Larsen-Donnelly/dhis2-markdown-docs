@@ -1,5 +1,5 @@
 ---
-template: overrides/main.html
+template: theme/home.html
 ---
 
 # DHIS2 Documentation
